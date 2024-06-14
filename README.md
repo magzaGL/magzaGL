@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning GIT
+- 🤔 I’m looking for help with GitHub
+- 
 <!--
 **magzaGL/magzaGL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
